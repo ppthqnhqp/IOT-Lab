@@ -1,4 +1,3 @@
-pip install paho-mqtt
 import paho.mqtt.client as mqttclient
 import time
 import json
